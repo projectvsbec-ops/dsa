@@ -13,24 +13,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
-### Array
+### Linked List
 <details>
-<summary>Click to expand Array problems</summary>
+<summary>Click to expand Linked List problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
-
-</details>
-
-
-### Math
-<details>
-<summary>Click to expand Math problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
+| 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
 
 </details>
 
